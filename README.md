@@ -116,10 +116,10 @@ Random Forest works well here because:
 
 ## 🧑‍💻 Author
 
-* Your Name
+* Rishab Sharma
 
 ---
 
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GNU License.
